@@ -1,0 +1,50 @@
+
+ul
+{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2em;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    display: inline;
+}
+
+a:link
+{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    font-style: bold;
+    color: black; 
+    text-decoration: none;
+}
+.coding
+{
+    border-bottom: solid;
+    border-bottom-color: rgb(18, 204, 192);
+}
+.design
+{
+    border-bottom: solid;
+    border-bottom-color: rgb(34, 204, 19);
+}
+.mobile
+{
+    border-bottom: solid;
+    border-bottom-color: rgb(233, 233, 10);
+}
+.graphics
+{
+    border-bottom: solid;
+    border-bottom-color: rgb(174, 121, 223);
+}
+.ux
+{
+    border-bottom: solid;
+    border-bottom-color: rgb(236, 146, 135);
+}
+.wp
+{
+    border-bottom: solid;
+    border-bottom-color: rgb(107, 172, 224);
+}

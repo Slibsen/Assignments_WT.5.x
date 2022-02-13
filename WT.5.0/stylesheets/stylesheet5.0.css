@@ -1,0 +1,48 @@
+nav
+{
+    float: left;
+    background-color: rgb(85, 83, 83);
+    width: 10em;
+    height: 45em;
+}
+ul
+{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2em;
+    padding: 0;
+}
+
+a
+{   
+    display: block;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 0 1em 0 3em;
+    margin-top: 0px;
+    padding-top: 0.5em;
+    padding-left: 3em;
+    padding-right: 1em;
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-position-x: 1em;
+    background-size: 1.1em;
+    
+}
+ a:hover
+{
+    background-color: lightgray;
+}
+.general
+{
+    background-image: url(../images/generalButton.png);
+    background-size: 2.5em;
+    background-repeat: no-repeat;
+}
+.search
+{
+    background-image: url(../images/search.png);
+    background-size: 2em;
+    background-repeat: no-repeat;
+}
